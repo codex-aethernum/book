@@ -33,7 +33,7 @@ jobs:
 
       - uses: actions/upload-artifact@v7
         with:
-          name: codex-aeternum-jar
+          name: codex-aethernum-book-jar
           path: build/libs/*.jar
           if-no-files-found: error
 
@@ -46,7 +46,7 @@ jobs:
     steps:
       - uses: actions/download-artifact@v8
         with:
-          name: codex-aeternum-jar
+          name: codex-aethernum-book-jar
 
       # Релиз с проверенным локально JAR может быть создан вручную до завершения CI: тогда его не трогаем
       - run: |
