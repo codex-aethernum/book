@@ -5,7 +5,7 @@ plugins {
 
 group = 'ru.kramar'
 version = mod_version
-base.archivesName = 'codex-aeternum'
+base.archivesName = 'codex-aethernum-book'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 

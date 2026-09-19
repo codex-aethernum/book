@@ -2,7 +2,7 @@
   <img src="docs/images/welcome.png" alt="Вступительный экран Codex Aethernum" width="100%">
 </p>
 
-<h1 align="center">Codex Aeternum</h1>
+<h1 align="center">Codex Aethernum Book</h1>
 
 <p align="center">
   <b>Путеводитель по вашему миру.</b><br>
@@ -11,15 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IgorKramar/codex-aeternum/releases/latest"><img src="https://img.shields.io/github/v/release/IgorKramar/codex-aeternum?style=flat-square&label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=c9a227" alt="Последний релиз"></a>
-  <a href="https://github.com/IgorKramar/codex-aeternum/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/IgorKramar/codex-aeternum/ci.yml?branch=main&style=flat-square&label=%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0" alt="Состояние сборки"></a>
+  <a href="https://github.com/codex-aethernum/book/releases/latest"><img src="https://img.shields.io/github/v/release/codex-aethernum/book?style=flat-square&label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=c9a227" alt="Последний релиз"></a>
+  <a href="https://github.com/codex-aethernum/book/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/codex-aethernum/book/ci.yml?branch=main&style=flat-square&label=%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0" alt="Состояние сборки"></a>
   <img src="https://img.shields.io/badge/Minecraft-1.21.1-2a9d8f?style=flat-square" alt="Minecraft 1.21.1">
   <img src="https://img.shields.io/badge/NeoForge-21.1-1d3557?style=flat-square" alt="NeoForge 21.1">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/IgorKramar/codex-aeternum?style=flat-square&label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&color=555" alt="Лицензия MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/codex-aethernum/book?style=flat-square&label=%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&color=555" alt="Лицензия MIT"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/IgorKramar/codex-aeternum/releases/latest">Скачать</a> ·
+  <a href="https://github.com/codex-aethernum/book/releases/latest">Скачать</a> ·
   <a href="#установка">Установка</a> ·
   <a href="#управление">Управление</a> ·
   <a href="#карты">Карты</a> ·
@@ -84,7 +84,7 @@ Ad Astra, Cataclysm, Aether, Twilight Forest, Eternal Tales и десятки м
 
 ## Установка
 
-1. Скачайте `codex-aeternum-<версия>.jar` со страницы [релизов](https://github.com/IgorKramar/codex-aeternum/releases/latest).
+1. Скачайте `codex-aethernum-book-<версия>.jar` со страницы [релизов](https://github.com/codex-aethernum/book/releases/latest).
 2. Положите его в папку `mods` клиента и сервера. Версии на обеих сторонах должны совпадать.
 3. В игре нажмите `K` или введите `/codex`.
 

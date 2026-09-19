@@ -4,9 +4,9 @@
 
 
 Работай только в своём изолированном каталоге /tmp/codex-guide-<имя>; исходники репозитория доступны для чтения. Родитель интегрирует готовые JSON.
-Исходное содержимое конкретной карты: /home/ikramar/Projects/codex-aeternum/build/authoring/<section>.json.
+Исходное содержимое конкретной карты: /home/ikramar/Projects/codex-aethernum-book/build/authoring/<section>.json.
 Моды и реальные рецепты/языки/достижения: /home/ikramar/.local/share/PrismLauncher/instances/1.21.1/minecraft/mods/*.jar.
-Все допустимые предметы: /home/ikramar/Projects/codex-aeternum/tools/valid_ids.txt (выгрузка реальной игры).
+Все допустимые предметы: /home/ikramar/Projects/codex-aethernum-book/tools/valid_ids.txt (выгрузка реальной игры).
 
 Для каждой назначенной карты создай <section>.json:
 {
